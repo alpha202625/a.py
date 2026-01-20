@@ -1,1 +1,1 @@
-# a.py
+print("hello")
